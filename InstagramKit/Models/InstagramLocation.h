@@ -19,8 +19,8 @@
 //    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIGeometry.h>
 #import "InstagramModel.h"
-#import <MapKit/MapKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
